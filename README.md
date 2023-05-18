@@ -11,3 +11,13 @@ lib
 - flask 
 - request 
 html well as css file 
+
+
+about file 
+
+un zip and  
+
+two file 
+- template 
+- app.py main file 
+ run this with the help of flask py 
